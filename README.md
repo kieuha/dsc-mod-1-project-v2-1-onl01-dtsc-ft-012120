@@ -13,4 +13,3 @@
 * Command to convert jupyter notebook to markdown file:
     ```jupyter nbconvert --to markdown notebookname.ipynb```
     
-* 
