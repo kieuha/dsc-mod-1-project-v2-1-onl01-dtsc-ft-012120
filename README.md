@@ -20,9 +20,9 @@
     
     To get the data, the following data cleaning was done:
     
-        1, Converted the data type from string to float
+        1. Converted the data type from string to float
         
-        2, Join imdb_title_basics with imdb_title_ratings by the tconst column. Converted genres to string and splited the genres into a list for each row. 
+        2. Join imdb_title_basics with imdb_title_ratings by the tconst column. Converted genres to string and splited the genres into a list for each row. 
         
         3. Join this table with the budgets table by title.
         
